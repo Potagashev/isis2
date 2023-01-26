@@ -2,7 +2,7 @@ version: "3.10"
 services:
   web:
     build: .
-    command: python ./src/main.py
+    command: python main.py
     ports:
       - "80:80"
 
