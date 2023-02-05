@@ -6,5 +6,5 @@
 git clone https://github.com/Potagashev/isis2.git
 ```
 ```
-docker-compose up
+docker run -ti -p 80:80 isis2
 ```
