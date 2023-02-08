@@ -6,6 +6,9 @@
 git clone https://github.com/Potagashev/isis2.git
 ```
 ```
+docker build -t isis2 .
+```
+```
 docker run -ti -p 80:80 isis2
 ```
 Перейти по ссылке
